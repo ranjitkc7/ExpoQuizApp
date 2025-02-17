@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTransfer Markup Language",
+      "HyperText Modeling Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is primarily used for developing Android apps?",
+    "options": ["Java", "Swift", "Python", "C++"],
+    "answer": "Java"
+  },
+  {
+    "id": 3,
+    "question": "What is the full form of CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Control Processing Unit",
+      "Central Program Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 4,
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Microsoft", "Apple", "Google", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "id": 5,
+    "question": "What is the main function of an operating system?",
+    "options": [
+      "To manage hardware and software resources",
+      "To develop applications",
+      "To browse the internet",
+      "To run databases"
+    ],
+    "answer": "To manage hardware and software resources"
+  },
+  {
+    "id": 6,
+    "question": "Which language is commonly used for web development along with JavaScript and CSS?",
+    "options": ["HTML", "Python", "Java", "C#"],
+    "answer": "HTML"
+  },
+  {
+    "id": 7,
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Run Advanced Memory",
+      "Rapid Access Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 8,
+    "question": "Which type of network covers a large geographical area?",
+    "options": [
+      "Wide Area Network (WAN)",
+      "Local Area Network (LAN)",
+      "Metropolitan Area Network (MAN)",
+      "Personal Area Network (PAN)"
+    ],
+    "answer": "Wide Area Network (WAN)"
+  },
+  {
+    "id": 9,
+    "question": "Which data structure uses the LIFO (Last In, First Out) principle?",
+    "options": ["Stack", "Queue", "Array", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "id": 10,
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query Language",
+      "Server Query Language",
+      "Scripted Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 11,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": ["C", "Assembly", "Fortran", "COBOL"],
+    "answer": "Fortran"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a dynamically typed language?",
+    "options": ["C", "Java", "Python", "C++"],
+    "answer": "Python"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary purpose of JavaScript?",
+    "options": [
+      "Backend development",
+      "Database management",
+      "Styling web pages",
+      "Web interactivity"
+    ],
+    "answer": "Web interactivity"
+  },
+  {
+    "id": 14,
+    "question": "Which language is mainly used for developing iOS applications?",
+    "options": ["Swift", "Kotlin", "Java", "C#"],
+    "answer": "Swift"
+  },
+  {
+    "id": 15,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High-level Text Management Language",
+      "Hyper Transfer Markup Language",
+      "Hyperlink and Text Management Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a compiled language?",
+    "options": ["JavaScript", "Python", "C", "Ruby"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which language is used for writing smart contracts in Ethereum?",
+    "options": ["Rust", "Solidity", "Go", "C++"],
+    "answer": "Solidity"
+  },
+  {
+    "id": 18,
+    "question": "Which company developed the C# programming language?",
+    "options": ["Microsoft", "Apple", "Google", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "id": 19,
+    "question": "What is the main advantage of using TypeScript over JavaScript?",
+    "options": [
+      "Better performance",
+      "Strongly typed system",
+      "Faster execution",
+      "More concise syntax"
+    ],
+    "answer": "Strongly typed system"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is not an object-oriented programming language?",
+    "options": ["Java", "C++", "Python", "C"],
+    "answer": "C"
+  }
+]
