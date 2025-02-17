@@ -1,6 +1,6 @@
 import React from 'react'
 import { Tabs } from 'expo-router'
-import { FontAwesome, Ionicons } from '@expo/vector-icons';
+import { FontAwesome, FontAwesome5 } from '@expo/vector-icons';
 
 const LayoutPage = () => {
   return (
@@ -13,8 +13,9 @@ const LayoutPage = () => {
         },
         tabBarStyle: {
           backgroundColor: "#003049",
+          height: 53,
         },
-        tabBarActiveTintColor: "#00bbf9",
+        tabBarActiveTintColor: "#00f5d4",
         tabBarInactiveTintColor: "white",
         headerTintColor: "#ffffff",
       }}
@@ -24,7 +25,7 @@ const LayoutPage = () => {
         options={{
           title: "Read",
           tabBarIcon: ({ color }) => (
-            <FontAwesome name="book" size={30} color={color} />
+            <FontAwesome name="book" size={25} color={color} />
           ),
         }}
       />
@@ -33,16 +34,16 @@ const LayoutPage = () => {
         options={{
           title: "Game",
           tabBarIcon: ({ color }) => (
-            <FontAwesome name="gamepad" size={30} color={color} />
+            <FontAwesome name="gamepad" size={25} color={color} />
           ),
         }}
       />
       <Tabs.Screen
-        name="settings"
+        name="results"
         options={{
-          title: "Settings",
+          title: "Result",
           tabBarIcon: ({ color }) => (
-            <Ionicons name="settings" size={30} color={color} />
+            <FontAwesome5 name="store" size={22} color={color} />
           ),
         }}
       />
